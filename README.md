@@ -26,4 +26,4 @@ mem[17] = 8'h03;
 mem[18] = 8'hA0;
 mem[19] = 8'h00;
 
-!(PipelineSuccessful)[images/PipelineSuccessful.png]
+![PipelineSuccessful](images/PipelineSuccessful.png)
