@@ -13,6 +13,7 @@ It includes **hazard detection** and **data forwarding** mechanisms to handle de
 ---
 ## Module Structure
 
+```
 ├── RV32I_pipeline.v
 │   ├── IF_ID.v
 |        ├── program_counter.v
@@ -31,6 +32,7 @@ It includes **hazard detection** and **data forwarding** mechanisms to handle de
 │   ├── WriteBack(mux2X1.v)
 │   ├── forwarding_unit.v
 │   ├── hazard_detection_unit.v
+```
 
 ## Successful Pipeline Test
 
